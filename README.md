@@ -1,2 +1,2 @@
-# List of recipes for the PDB GitHub Workshop
-This repository is a demonstration of how to use branches and forks for the GH workshop to NEFSC-PDB
+# Revised GitHub-clinic-demo-PDB-2
+Made list of recipes for PDB GH Workshop
